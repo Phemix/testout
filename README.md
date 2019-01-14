@@ -30,8 +30,12 @@ Strikethrough uses two tildes. ~~strike~~
 | col 2 is      | centered      |   $12 |
 | zebra stripes | are neat      |    $1 |
 
+<br/>
+<br/>
 
 > This is a very long line that will still be quoted properly when it wraps. Oh boy let's keep writing to make sure this is long enough to actually wrap for everyone. Oh, you can *put* **Markdown** into a blockquote. 
+<br/>
+<br/>
 
 
 Here's a line for us to start with.
