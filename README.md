@@ -86,4 +86,8 @@ Alas a list
 4. And another item.
 
 
-<sup>(c) 2009, this is a product of the pathfinder team and may only be used with express permission of the team</sup>
+
+> How about mentions
+<p>@ooyinkan @bryan@optum.com</p>
+
+<div style="text-align:center"> <sup>(c) 2009, this is a product of the pathfinder team and may only be used with express permission of the team</sup> </div>
