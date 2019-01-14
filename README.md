@@ -11,8 +11,11 @@ Normal text would appear like this, the *br* tag is a html tag that simply inser
 <br/>
 
 italics, with *asterisks* 
+
 Strong emphasis, aka bold, with **asterisks**
+
 bold and asteriks **_asterisks_** 
+
 Strikethrough uses two tildes. ~~strike~~
 <br/>
 <br/>
