@@ -84,3 +84,6 @@ Alas a list
 1. Actual numbers don't matter, just that it's a number
 ⋅⋅1. Ordered sub-list
 4. And another item.
+
+
+<sup>(c) 2009, this is a product of the pathfinder team and may only be used with express permission of the team</sup>
