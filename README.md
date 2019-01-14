@@ -23,3 +23,10 @@ Strikethrough uses two tildes. ~~strike~~
 
 ![alt text](https://github.com/Phemix/testout/blob/master/optum.jpg "This text will show when you hover over the picture")
 
+
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+
