@@ -18,3 +18,5 @@ Strong emphasis, aka bold, with **asterisks**
 bold and asteriks **_asterisks_** 
 
 Strikethrough uses two tildes. ~~strike~~
+
+[I'm a link to google](https://www.google.com)
