@@ -20,8 +20,24 @@ Strikethrough uses two tildes. ~~strike~~
 <br/>
 <br/>
 
+Hover over the picture
+<br/>
 ![alt text](https://github.com/Phemix/testout/blob/master/optum.jpg "This text will show when you hover over the picture")
 <br/>
+<br/>
+
+> As long as the bars are put in correctly, the lines do not have to align, its neater to keep them aligned though
+<br/>
+
+| This          | is            | 4     |Columns|
+| ------------- |:-------------:| -----:| -----:|
+| col 3 is      | right-aligned | $1600 | test  |
+| col 2 is      | centered      |   $12 | garbage|
+| zebra stripes | are neat      |    $1 | oh well!|
+| so far | the bars | are | there|
+|they don't | have | to | align|
+| trust me      | its neater    | to be | aligned|
+| copy          | and paste     | as you| need to|
 <br/>
 
 | Tables        | Are           | Cool  |
@@ -29,6 +45,14 @@ Strikethrough uses two tildes. ~~strike~~
 | col 3 is      | right-aligned | $1600 |
 | col 2 is      | centered      |   $12 |
 | zebra stripes | are neat      |    $1 |
+
+<br/>
+
+| 2 column      | Table         | 
+| ------------- |:-------------:| 
+| col 3 is      | right-aligned | 
+| col 2 is      | centered      |  
+| zebra stripes | are neat      |
 
 <br/>
 <br/>
