@@ -19,6 +19,7 @@ bold and asteriks **_asterisks_**
 
 Strikethrough uses two tildes. ~~strike~~
 
+
 [I'm a link to google](https://www.google.com)
 
 ![alt text](https://github.com/Phemix/testout/blob/master/optum.jpg "This text will show when you hover over the picture")
