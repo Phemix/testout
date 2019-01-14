@@ -7,7 +7,7 @@
 <br/>
 <br/>
 
-Normal text would appear like this, the *br* tag is a html tag that simply inserts a newline, you can use two of them to insert two new lines and yes I;m about to use one right now
+Normal text would appear like this, the *br* tag is a html tag that simply inserts a newline, you can use two of them to insert two new lines and yes i'm about to use one right now
 <br/>
 
 italics, with *asterisks* 
