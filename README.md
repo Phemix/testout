@@ -1,3 +1,20 @@
+# Pathfinder Github Readme Sample
+
+This is a sample github readme in a table of content style
+Note that the links in here would take you to the document location in the readme (the parameters used in the bracket and the 'a' tag has to match e.g for number 1, #desc and the 'a name=desc' has to be the same 
+1. [ Description. ](#desc)
+2. [ Usage tips. ](#usage)
+3. [ Text Formatting ](#format)
+4. [ lInks ](#link)
+
+<a name="desc"></a>
+## 1. Description
+This is a sample github readme in a table of content style
+<br/>
+
+<a name="usage"></a>
+## 2. Usage tips for text sizes
+
 # This text size
 ## This text size
 ### This text size
@@ -7,27 +24,9 @@
 <br/>
 <br/>
 
-This could be used as a list or table of contents
-- [Heading](#heading)
-  * [Sub-heading](#sub-heading)
-    + [Sub-sub-heading](#sub-sub-heading)
-- [Heading](#heading-1)
-  * [Sub-heading](#sub-heading-1)
-    + [Sub-sub-heading](#sub-sub-heading-1)
-- [Heading](#heading-2)
-  * [Sub-heading](#sub-heading-2)
-    + [Sub-sub-heading](#sub-sub-heading-2)
-    
-1. [ Description. ](#desc)
-2. [ Usage tips. ](#usage)
+<a name="format"></a>
+## 3. Text Formatting
 
-<a name="desc"></a>
-## 1. Description
-
-sometext
-
-<a name="usage"></a>
-## 2. Usage tips
 
 Normal text would appear like this, the *br* tag is a html tag that simply inserts a newline, you can use two of them to insert two new lines and yes i'm about to use one right now
 <br/>
@@ -42,8 +41,9 @@ Strikethrough uses two tildes. ~~strike~~
 <br/>
 <br/>
 
+<a name="link"></a>
+## 4. link sample
 [I'm a link to google](https://www.google.com)
-
 <br/>
 <br/>
 
@@ -105,12 +105,15 @@ This would display a header kinda...
 
 
 Alas a list
-1. First ordered list item
-2. Another item
-  * Unordered sub-list. 
-1. Actual numbers don't matter, just that it's a number
-⋅⋅1. Ordered sub-list
-4. And another item.
+- [Heading](#heading)
+  * [Sub-heading](#sub-heading)
+    + [Sub-sub-heading](#sub-sub-heading)
+- [Heading](#heading-1)
+  * [Sub-heading](#sub-heading-1)
+    + [Sub-sub-heading](#sub-sub-heading-1)
+- [Heading](#heading-2)
+  * [Sub-heading](#sub-heading-2)
+    + [Sub-sub-heading](#sub-sub-heading-2)
 
 
 
