@@ -75,19 +75,11 @@ This line is also a separate paragraph, but...
 This line is only separated by a single newline, so it's a separate line in the *same paragraph*.
 
 
-Three or more...
+This would display a header kinda...
 
 ---
 
-Hyphens
 
-***
-
-Asterisks
-
-___
-
-Underscores
 
 
       
