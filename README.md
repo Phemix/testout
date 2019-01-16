@@ -5,7 +5,8 @@ Note that the links in here would take you to the document location in the readm
 1. [ Description. ](#desc)
 2. [ Usage tips. ](#usage)
 3. [ Text Formatting ](#format)
-4. [ lInks ](#link)
+4. [ Links ](#link)
+5. [ Images ](#pic)
 
 <a name="desc"></a>
 ## 1. Description
@@ -47,6 +48,8 @@ Strikethrough uses two tildes. ~~strike~~
 <br/>
 <br/>
 
+<a name="pic"></a>
+## 4. Picture
 Hover over the picture
 <br/>
 ![alt text](https://github.com/Phemix/testout/blob/master/optum.jpg "This text will show when you hover over the picture")
