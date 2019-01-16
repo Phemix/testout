@@ -95,4 +95,6 @@ Alas a list
 > How about mentions
 <p>@ooyinkan @bryan@optum.com</p>
 
-<div style="text-align:center"> <sup>(c) 2009, this is a product of the pathfinder team and may only be used with express permission of the team</sup> </div>
+<br/>
+> Note this footnote uses html tags and is centered
+<p align="center"> <sup>(c) 2009, this is a product of the pathfinder team and may only be used with express permission of the team</sup> </p>
