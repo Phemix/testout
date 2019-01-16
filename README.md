@@ -1,6 +1,6 @@
 # Pathfinder Github Readme Sample
 
-This is a sample github readme in a table of content style
+This is a sample github readme in a table of content style.
 Note that the links in here would take you to the document location in the readme (the parameters used in the bracket and the 'a' tag has to match e.g for number 1, #desc and the 'a name=desc' has to be the same 
 1. [ Description. ](#desc)
 2. [ Usage tips for text sizes. ](#usage)
@@ -33,8 +33,6 @@ This is a sample github readme in a table of content style
 
 <a name="format"></a>
 ## 3. Text Formatting
-
-
 Normal text would appear like this, the *br* tag is a html tag that simply inserts a newline, you can use two of them to insert two new lines and yes i'm about to use one right now
 <br/>
 
@@ -120,7 +118,7 @@ Alas a list
 
 <a name="mention"></a>
 ## 9. Mentions
-> How about mentions
+> How about mentions, people mentioned would be notified, aint that cool?
 <p>@ooyinkan @bryan@optum.com</p>
 <br/>
 
