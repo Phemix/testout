@@ -7,6 +7,28 @@
 <br/>
 <br/>
 
+This could be used as a list or table of contents
+- [Heading](#heading)
+  * [Sub-heading](#sub-heading)
+    + [Sub-sub-heading](#sub-sub-heading)
+- [Heading](#heading-1)
+  * [Sub-heading](#sub-heading-1)
+    + [Sub-sub-heading](#sub-sub-heading-1)
+- [Heading](#heading-2)
+  * [Sub-heading](#sub-heading-2)
+    + [Sub-sub-heading](#sub-sub-heading-2)
+    
+1. [ Description. ](#desc)
+2. [ Usage tips. ](#usage)
+
+<a name="desc"></a>
+## 1. Description
+
+sometext
+
+<a name="usage"></a>
+## 2. Usage tips
+
 Normal text would appear like this, the *br* tag is a html tag that simply inserts a newline, you can use two of them to insert two new lines and yes i'm about to use one right now
 <br/>
 
@@ -94,7 +116,8 @@ Alas a list
 
 > How about mentions
 <p>@ooyinkan @bryan@optum.com</p>
-
 <br/>
+
 > Note this footnote uses html tags and is centered
+<br/>
 <p align="center"> <sup>(c) 2009, this is a product of the pathfinder team and may only be used with express permission of the team</sup> </p>
